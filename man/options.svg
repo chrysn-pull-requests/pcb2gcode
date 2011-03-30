@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="sketch.svg"
+   sodipodi:docname="options.svg"
    style="display:inline"
    inkscape:export-filename="/home/chrysn/debian_packaging/pcb2gcode/sketch.png"
    inkscape:export-xdpi="95"
@@ -1249,11 +1249,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="463.07006"
-     inkscape:cy="253.71877"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="401.23702"
+     inkscape:cy="355.99605"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer5"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2202,5 +2202,26 @@
          id="tspan4685-2-4-0-1"
          x="115.51682"
          y="133.56519">--drill-speed</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 624.90562,154.26428 651.5989,142.16544"
+       id="path3364"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 635.24704,157.28324 19.33964,-8.62059"
+       id="path3364-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       x="650.55597"
+       y="147.81165"
+       id="text4683-0-31-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="650.55597"
+         y="147.81165"
+         id="tspan3405">--outline-width</tspan></text>
   </g>
 </svg>
