@@ -1285,18 +1285,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="148.26528"
-     inkscape:cy="218.36165"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="324.49067"
+     inkscape:cy="186.63373"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="956"
-     inkscape:window-height="1002"
-     inkscape:window-x="960"
-     inkscape:window-y="58"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-to-guides="true"
      inkscape:snap-global="false"
@@ -1561,37 +1561,43 @@
          id="path3855-0"
          style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="11"
-         d="m 735.18807,653.56496 0,5.88188 -39.50654,0 0,-5.88188 z" />
+         d="m 735.18807,653.56496 0,5.88188 -39.50654,0 0,-5.88188 z"
+         points="735.18807,659.44684 695.68153,659.44684 695.68153,653.56496 735.18807,653.56496 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3851-4"
          style="fill:#d7d7ff;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="14"
-         d="m 621.7194,712.35815 -39.50654,0 113.46867,-52.91131 39.50654,0 z" />
+         d="m 621.7194,712.35815 -39.50654,0 113.46867,-52.91131 39.50654,0 z"
+         points="582.21286,712.35815 695.68153,659.44684 735.18807,659.44684 621.7194,712.35815 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3853-5"
          style="fill:#afafde;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="13"
-         d="m 582.21286,706.47627 0,5.88188 113.46867,-52.91131 0,-5.88188 z" />
+         d="m 582.21286,706.47627 0,5.88188 113.46867,-52.91131 0,-5.88188 z"
+         points="582.21286,712.35815 695.68153,659.44684 695.68153,653.56496 582.21286,706.47627 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3847-4"
          style="fill:#eeb204;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="5"
-         d="m 621.7194,706.47627 0,5.88188 113.46867,-52.91131 0,-5.88188 z" />
+         d="m 621.7194,706.47627 0,5.88188 113.46867,-52.91131 0,-5.88188 z"
+         points="621.7194,712.35815 735.18807,659.44684 735.18807,653.56496 621.7194,706.47627 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3845-18"
          style="fill:url(#radialGradient5414-4);fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="6"
-         d="m 621.7194,706.47627 -39.50654,0 113.46867,-52.91131 39.50654,0 z" />
+         d="m 621.7194,706.47627 -39.50654,0 113.46867,-52.91131 39.50654,0 z"
+         points="582.21286,706.47627 695.68153,653.56496 735.18807,653.56496 621.7194,706.47627 " />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3849-0"
          style="fill:#fbc017;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="3"
-         d="m 621.7194,706.47627 0,5.88188 -39.50654,0 0,-5.88188 z" />
+         d="m 621.7194,706.47627 0,5.88188 -39.50654,0 0,-5.88188 z"
+         points="621.7194,712.35815 582.21286,712.35815 582.21286,706.47627 621.7194,706.47627 " />
     </g>
   </g>
   <g
@@ -2092,7 +2098,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Book';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="614.854"
        y="169.58603"
        id="text4683-0-31-3"
@@ -2100,7 +2106,7 @@
          sodipodi:role="line"
          id="tspan4685-2-4-6"
          x="614.854"
-         y="169.58603">--mill-feed</tspan></text>
+         y="169.58603">--cut-feed</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-opacity:1;marker-end:url(#Arrow1Mend-8)"
