@@ -1385,43 +1385,37 @@
          id="path3855-5"
          style="fill:#e9e9ff;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="11"
-         d="m 694.38018,666.74317 0,98.16383 -474.77169,0 0,-98.16383 z"
-         points="694.38018,764.907 219.60849,764.907 219.60849,666.74317 694.38018,666.74317 " />
+         d="m 696.50062,659.4663 0,98.16383 -474.77169,0 0,-98.16383 z" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3851-9"
          style="fill:#d7d7ff;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="14"
-         d="m 515.07767,848.51714 -474.771692,0 179.302512,-83.61014 474.77169,0 z"
-         points="40.305978,848.51714 219.60849,764.907 694.38018,764.907 515.07767,848.51714 " />
+         d="m 517.1981,841.24027 -474.77169,0 179.30252,-83.61014 474.77169,0 z" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3853-6"
          style="fill:#afafde;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="13"
-         d="m 40.305978,750.35331 0,98.16383 179.302512,-83.61014 0,-98.16383 z"
-         points="40.305978,848.51714 219.60849,764.907 219.60849,666.74317 40.305978,750.35331 " />
+         d="m 42.42641,743.07644 0,98.16383 179.30252,-83.61014 0,-98.16383 z" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3847-6"
          style="fill:#beb789;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="5"
-         d="m 515.07767,750.35331 0,98.16383 179.30251,-83.61014 0,-98.16383 z"
-         points="515.07767,848.51714 694.38018,764.907 694.38018,666.74317 515.07767,750.35331 " />
+         d="m 517.1981,743.07644 0,98.16383 179.30252,-83.61014 0,-98.16383 z" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3845-1"
          style="fill:#353564;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="6"
-         d="m 515.07767,750.35331 -474.771692,0 179.302512,-83.61014 474.77169,0 z"
-         points="40.305978,750.35331 219.60849,666.74317 694.38018,666.74317 515.07767,750.35331 " />
+         d="m 517.1981,743.07644 -474.77169,0 179.30252,-83.61014 474.77169,0 z" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path3849-7"
          style="fill:#cdc8a4;fill-opacity:1;fill-rule:evenodd;stroke:none"
          inkscape:box3dsidetype="3"
-         d="m 515.07767,750.35331 0,98.16383 -474.771692,0 0,-98.16383 z"
-         points="515.07767,848.51714 40.305978,848.51714 40.305978,750.35331 515.07767,750.35331 " />
+         d="m 517.1981,743.07644 0,98.16383 -474.77169,0 0,-98.16383 z" />
     </g>
     <g
        sodipodi:type="inkscape:box3d"
