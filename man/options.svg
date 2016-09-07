@@ -1286,17 +1286,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="324.49067"
-     inkscape:cy="186.63373"
+     inkscape:cx="599.73197"
+     inkscape:cy="336.18681"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="956"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="58"
      inkscape:window-maximized="0"
      inkscape:snap-to-guides="true"
      inkscape:snap-global="false"
@@ -2085,22 +2085,22 @@
        id="path4978"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);display:inline"
-       d="m 592.24539,173.48903 35.90596,-17.70586"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 588.99323,184.762 35.90596,-17.70586"
        id="path4314-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Book';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="614.854"
-       y="169.58603"
+       x="625.76605"
+       y="171.54834"
        id="text4683-0-31-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4685-2-4-6"
-         x="614.854"
-         y="169.58603">--cut-feed</tspan></text>
+         x="625.76605"
+         y="171.54834">--cut-feed</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-opacity:1;marker-end:url(#Arrow1Mend-8)"
